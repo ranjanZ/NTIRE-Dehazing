@@ -15,5 +15,5 @@ $python dehaze_outdoor.py  Hazy_Image_Directory   Output_Image_Directory
 
 
 Default:
-$python  python dehaze_outdoor.py ../data/OutdoorTestHazy/ ../data/IndoorTestHazy_out/ 
+$python  python dehaze_outdoor.py ../data/OutdoorTestHazy/ ../data/OutdoorTestHazy_out/ 
 
